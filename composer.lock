@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "345240de740ce3ac09b5bbc710bc843d",
+    "packages": [
+        {
+            "name": "coveo/sdkpushphp",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/coveo-labs/SDK-Push-PHP.git",
+                "reference": "2e73949f828b4032cd485d7d349ffe763ccdc656"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/coveo-labs/SDK-Push-PHP/zipball/2e73949f828b4032cd485d7d349ffe763ccdc656",
+                "reference": "2e73949f828b4032cd485d7d349ffe763ccdc656",
+                "shasum": ""
+            },
+            "require": {
+                "coveo/sdkpushphp": "dev-master"
+            },
+            "default-branch": true,
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Using the push API from Coveo with PHP",
+            "support": {
+                "issues": "https://github.com/coveo-labs/SDK-Push-PHP/issues",
+                "source": "https://github.com/coveo-labs/SDK-Push-PHP/tree/master"
+            },
+            "time": "2021-09-14T12:03:00+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "coveo/sdkpushphp": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}

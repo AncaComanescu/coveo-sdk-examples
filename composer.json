@@ -1,0 +1,8 @@
+{
+    "name": "local/coveo-sdk-examples",
+    "description": "Use coveo-sdk-php examples.",
+    "type": "project",
+    "require": {
+        "coveo/sdkpushphp": "dev-master"
+    }
+}
