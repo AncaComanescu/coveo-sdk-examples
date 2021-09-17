@@ -4,5 +4,10 @@
     "type": "project",
     "require": {
         "coveo/sdkpushphp": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Coveo\\Search\\SDK\\SDKPushPHP\\": "coveo/sdkpushphp/coveopush"
+        },
     }
 }
